@@ -3,6 +3,7 @@ Welcome to my CodSoft Python Internship Repository! 🚀
 This repository contains the projects I completed during my Python Programming Internship at CodSoft. Through these projects, I enhanced my Python programming skills, problem-solving abilities, and understanding of real-world applications.
 
 📌 Projects Included
+
 ✅ To-Do List Application
 A simple task management system that helps users organize daily activities.
 Features:
