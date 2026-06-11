@@ -1,7 +1,5 @@
 
-# To-Do List Application
-# This application allows users to manage their tasks by adding, viewing, removing, and marking tasks as completed.
-def add_task():# Function to add a task to the to-do list
+def add_task():
     task = input("Enter the task you want to add:")
     to_do_list.append(task)
     print("Task added successfully!")
@@ -83,7 +81,6 @@ while True:
      print("Exiting application.")# Exit the application
      break
  else:
-     print("Please enter a valid choice (1-5).")# Handle the case where the user input is not a valid choice
-
+     print("Please enter a valid choice (1-5).")
 
 
