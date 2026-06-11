@@ -69,6 +69,8 @@ def delete_contact():#FUNCTION TO DELETE A CONTACT
         elif confirm == "no":
             print("Deletion cancelled!........\n")
             break   
+        else:
+            print("INVALID INPUT! Please enter 'yes' or 'no'.\n")
 
     else:
         print("NO CONTACTS FOUND!........\n")        
